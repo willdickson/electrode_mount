@@ -2,5 +2,5 @@
 
 Simple FreeCAD design for a electrode mount. 
 
-![3d_render_1](images/screenshot_1.png)
+![3d_render_1](images/screenshot_2.png)
 
